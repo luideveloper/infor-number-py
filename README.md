@@ -1,6 +1,6 @@
 ## 🔸 Obtendo informações de número
 > Código do script desenvolvido realiza a consulta de informações de um número fornecido pelo usuário.
-## 🔸 Apis utilizadas:
+## 🔸 Api utilizada:
 - Veriphone: https://veriphone.io/docs/v2
 ## 🔸 Como rodar esse script na sua máquina:
 1. Baixar o projeto na sua máquia.
