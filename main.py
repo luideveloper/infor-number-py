@@ -1,5 +1,5 @@
 from functions import main
 
-main()
+main() # Chamada de função principal
 
 
