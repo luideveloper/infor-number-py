@@ -1,8 +1,8 @@
-## 🔹 Obtendo informações de número
+## 🔸 Obtendo informações de número
 > Código do script desenvolvido realiza a consulta de informações de um número fornecido pelo usuário.
-## 🔹 Apis utilizadas:
+## 🔸 Apis utilizadas:
 - Veriphone: https://veriphone.io/docs/v2
-## 🔹 Como rodar esse script na sua máquina:
+## 🔸 Como rodar esse script na sua máquina:
 1. Baixar o projeto na sua máquia.
 ```bash
 git clone https://github.com/luideveloper/infor-number-py.git
