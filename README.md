@@ -3,13 +3,13 @@
 ## 🔸 Api utilizada:
 - Veriphone: https://veriphone.io/docs/v2
 ## 🔸 Como rodar esse script na sua máquina:
-1. Baixar o projeto na sua máquia.
+1. Baixar o projeto na sua máquina
 ```bash
 git clone https://github.com/luideveloper/infor-number-py.git
 ```
 2. Entrar na pasta do projeto
 ```bash
-cd  infor-number-py/
+cd infor-number-py
 ```
 3. Instalar as dependências
 ```bash
